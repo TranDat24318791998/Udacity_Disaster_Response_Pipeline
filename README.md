@@ -1,5 +1,7 @@
 # Disaster Response Pipeline Project
 This is a Udacity project in the Data Scientist Nanodegree.
+You can check repository here:
+https://github.com/TranDat24318791998/Udacity_Disaster_Response_Pipeline
 
 ## **Project Structure**
 
